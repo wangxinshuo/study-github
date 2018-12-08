@@ -16,3 +16,11 @@ just study git, nothing.
 5.git commit -m "what are you doing"  #预提交
 
 6.git push origin master  #提交到远程仓库
+
+————————————————————————————————————————————————————————————————————
+git常用命令
+
+$ git config --list
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.co
